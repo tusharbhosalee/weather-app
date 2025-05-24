@@ -19,10 +19,6 @@ A responsive weather application built with HTML, CSS, and JavaScript. It fetche
 2. Press the search button or hit "Enter".
 3. Weather details for the city will be displayed.
 
-git clone https://github.com/tusharbhosalee/weather-app.git
-cd weather-app
-open index.html
-
 ## Technologies Used
 - HTML5
 - CSS3 (Flexbox, animations, media queries)
