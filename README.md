@@ -3,6 +3,8 @@
 ## Overview
 A responsive weather application built with HTML, CSS, and JavaScript. It fetches live weather data from the OpenWeatherMap API and displays temperature, humidity, wind speed, and pressure for any city.
 
+#Screenshot
+![Weather App Screenshot](images/screenshot.png)
 
 
 ## Features
